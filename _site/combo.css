@@ -516,10 +516,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-kitchen { border-color: #FF66CC; }
-  #kitchen { background-color: #FF66CC !important; color: #f8f8f8; }
-  #kitchen a { color: #f8f8f8; }
-  #kitchen .sectiondivider { color: #FF66CC; }
+  nav .p-special { border-color: #FF66CC; }
+  #special { background-color: #FF66CC !important; color: #f8f8f8; }
+  #special a { color: #f8f8f8; }
+  #special .sectiondivider { color: #FF66CC; }
 
   
   
@@ -532,18 +532,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-appliances { border-color: #63BD2F; }
-  #appliances { background-color: #63BD2F !important; color: #f8f8f8; }
+  nav .p-appliances { border-color: #fab125; }
+  #appliances { background-color: #fab125 !important; color: #f8f8f8; }
   #appliances a { color: #f8f8f8; }
-  #appliances .sectiondivider { color: #63BD2F; }
+  #appliances .sectiondivider { color: #fab125; }
 
   
   
   
-  nav .p-furniture { border-color: #fab125; }
-  #furniture { background-color: #fab125 !important; color: #111111; }
+  nav .p-furniture { border-color: #63BD2F; }
+  #furniture { background-color: #63BD2F !important; color: #111111; }
   #furniture a { color: #111111; }
-  #furniture .sectiondivider { color: #fab125; }
+  #furniture .sectiondivider { color: #63BD2F; }
 
   
   

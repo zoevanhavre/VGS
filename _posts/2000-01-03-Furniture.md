@@ -1,15 +1,23 @@
 ---
 title: "Furniture"
-bg: orange
+bg:  '#63BD2F'
 color: black
 fa-icon: home
 style: center
 ---
 
-- Wooden folding desk/table $100
-- Glass table $50
-- piano stool $50
-- red ikea lounge chair $100
-- Super comfy lounge chair (make an offer... I dont really want to sell this! Its so comfy)
-- bed ? $50 / free
-- dining chairs x 3
+##### Wooden folding desk/table $100
+
+##### Glass table $80
+
+##### Christmas tree $50
+
+##### red ikea lounge chair $100
+
+##### piano stool $20
+
+##### computer chair $20
+
+##### bed - $50 / free
+
+##### dining chairs x 3, free (preferably with a table)
