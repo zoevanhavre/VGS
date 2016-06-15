@@ -516,6 +516,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-kitchen { border-color: #FF66CC; }
+  #kitchen { background-color: #FF66CC !important; color: #f8f8f8; }
+  #kitchen a { color: #f8f8f8; }
+  #kitchen .sectiondivider { color: #FF66CC; }
+
+  
+  
+  
   nav .p-clothes { border-color: #c869bf; }
   #clothes { background-color: #c869bf !important; color: #f8f8f8; }
   #clothes a { color: #f8f8f8; }
