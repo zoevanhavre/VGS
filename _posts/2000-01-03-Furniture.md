@@ -12,7 +12,7 @@ style: center
 
 ##### Christmas tree $50
 
-![](/img/IMG_20160520_111802-01.jpeg)
+![](https://github.com/zoevanhavre/VGS/blob/gh-pages/img/IMG_20160520_111802-01.jpeg)
 
 ### red ikea lounge chair $100
 
