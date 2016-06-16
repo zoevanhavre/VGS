@@ -508,18 +508,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-free { border-color: #0fbfcf; }
-  #free { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #free a { color: #f8f8f8; }
-  #free .sectiondivider { color: #0fbfcf; }
+  nav .p-buy { border-color: #0fbfcf; }
+  #buy { background-color: #0fbfcf !important; color: #f8f8f8; }
+  #buy a { color: #f8f8f8; }
+  #buy .sectiondivider { color: #0fbfcf; }
 
   
   
   
-  nav .p-special { border-color: #FF66CC; }
-  #special { background-color: #FF66CC !important; color: #f8f8f8; }
-  #special a { color: #f8f8f8; }
-  #special .sectiondivider { color: #FF66CC; }
+  nav .p-free { border-color: #FF66CC; }
+  #free { background-color: #FF66CC !important; color: #f8f8f8; }
+  #free a { color: #f8f8f8; }
+  #free .sectiondivider { color: #FF66CC; }
 
   
   

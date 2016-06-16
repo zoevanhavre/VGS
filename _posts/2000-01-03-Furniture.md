@@ -6,24 +6,22 @@ fa-icon: home
 style: center
 ---
 
-##### Wooden folding desk/table $100
+## Wooden folding desk/table $100
 
-##### Glass table $80
 
-##### Christmas tree $50
+## Glass table $80
+
+## red ikea lounge chair $100
+
+## Super comfy lounge chair ~ $400 (make an offer...  Its so comfy!)
+
+## piano stool $20
+
+## computer chair $20
+
+## King size bed (mattress + base) - $100
+
+
+## Christmas tree $50
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160520_111802-01.jpeg)
-
-### red ikea lounge chair $100
-
-##### piano stool $20
-
-##### computer chair $20
-
-##### bed - $50 / free
-
-##### dining chairs x 3, free (preferably with a table)
-
-#### noticeboard
-
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/noticeboard.jpg)
