@@ -12,7 +12,9 @@ style: center
 
 ##### Christmas tree $50
 
-##### red ikea lounge chair $100
+![](/img/IMG_20160520_111802-01.jpeg)
+
+### red ikea lounge chair $100
 
 ##### piano stool $20
 
