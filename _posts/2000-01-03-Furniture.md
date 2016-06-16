@@ -23,3 +23,7 @@ style: center
 ##### bed - $50 / free
 
 ##### dining chairs x 3, free (preferably with a table)
+
+#### noticeboard
+
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/noticeboard.jpg)
