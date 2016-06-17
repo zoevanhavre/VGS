@@ -24,8 +24,7 @@ style: center
 
 
 ## Christmas tree $50
-
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160617_083318-01.jpeg)
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20141201_234041-01-01.jpeg)
 
 ## Chest of drawers $150
 
