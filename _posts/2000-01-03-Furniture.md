@@ -11,7 +11,8 @@ style: center
 
 ## Glass table $80
 
-## red ikea lounge chair $100
+## Red ikea lounge chair $100
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160520_140727-01.jpeg)
 
 ## Super comfy lounge chair ~ $400 (make an offer...  Its so comfy!)
 
@@ -23,5 +24,7 @@ style: center
 
 
 ## Christmas tree $50
+
+## Chest of drawers $150
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160520_111802-01.jpeg)
