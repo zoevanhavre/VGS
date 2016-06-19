@@ -23,7 +23,7 @@ style: center
 
 ## computer chair $20
 
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pagesimg/IMG_20160619_161352-01.jpg)
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161352-01.jpg)
 
 ## King size bed (mattress + base) - $100
 
