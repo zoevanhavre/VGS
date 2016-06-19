@@ -16,7 +16,7 @@ style: center
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161110-01.jpg)
 
 ## Fan $30
-![](img/IMG_20160619_161237-01.jpg)
+![](https://raw.githubusercontent.com/VGS/blob/gh-pages/img/IMG_20160619_161237-01.jpg)
 
 ## Small multi-use blender $40
 Great for sauces and cocktails :P
