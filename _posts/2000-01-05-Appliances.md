@@ -7,23 +7,23 @@ style: center
 ---
 
 
-## coffee machine $60
+## Coffee machine $60
+
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/coffee.machine.jpg)
 
-## computer screen $40
-<!-- Photo needed! -->
+## Computer screen $40
 
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161110-01.jpg)
 
-## small multi-use blender $40
+## Fan $30
+![](img/IMG_20160619_161237-01.jpg)
+
+## Small multi-use blender $40
 Great for sauces and cocktails :P
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/blender.jpg)
 
-
-## microwave $50
+## Microwave $50
 <!-- Photo needed! -->
 
-## fan (free) $20
-<!-- Photo needed! -->
-
-## toaster free $10
+## Toaster $10
 <!-- Photo needed! -->
