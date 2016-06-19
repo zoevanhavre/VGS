@@ -10,7 +10,16 @@ style: center
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_163415-01.jpg)
 
-## Glass table $80
+## Glass table
+
+### By itself - $80
+
+_coming soon_
+
+
+### With 3 chairs - $100
+
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161554-01.jpg)
 
 ## Red ikea lounge chair $100
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160520_140727-01.jpeg)
