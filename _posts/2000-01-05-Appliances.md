@@ -22,7 +22,7 @@ style: center
 Great for sauces and cocktails :P
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/blender.jpg)
 
-## SOLD!!! ~~ Microwave $50 ~~
+## SOLD!!! ~~Microwave $50~~
 <!-- Photo needed! -->
 
 ## Toaster $10
