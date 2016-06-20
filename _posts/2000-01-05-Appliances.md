@@ -7,7 +7,8 @@ style: center
 ---
 
 
-## Coffee machine $60
+## Coffee machine $60 *Maybe sold...*
+
 Note: Red milk frother not included. *I need that for hot chocolate... *
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/coffee.machine.jpg)
 
@@ -25,5 +26,5 @@ Great for sauces and cocktails :P
 ## SOLD!!! ~~Microwave $50~~
 <!-- Photo needed! -->
 
-## Toaster $10
+## Toaster $20
 <!-- Photo needed! -->
