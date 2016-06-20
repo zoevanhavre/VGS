@@ -30,8 +30,7 @@ _pic coming asap_
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161853-01.jpg)
 
-## computer chair $20
-
+## SOLD!!! ~~computer chair $20~~
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161352-01.jpg)
 
 ## King size bed (mattress + base) - $100
