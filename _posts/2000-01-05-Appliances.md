@@ -6,8 +6,7 @@ fa-icon: plug
 style: center
 ---
 
-
-## Coffee machine $60 *Maybe sold...*
+## Coffee machine $60
 
 Note: Red milk frother not included. *I need that for hot chocolate... *
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/coffee.machine.jpg)
@@ -23,8 +22,9 @@ Note: Red milk frother not included. *I need that for hot chocolate... *
 Great for sauces and cocktails :P
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/blender.jpg)
 
-## SOLD!!! ~~Microwave $50~~
+## Toaster $20
+Chrome,  large size (x4 toasts at once), thick-slice friendly, warming rack inbuilt.
 <!-- Photo needed! -->
 
-## Toaster $20
+## SOLD!!! ~~Microwave $50~~
 <!-- Photo needed! -->
