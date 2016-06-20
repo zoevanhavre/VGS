@@ -6,7 +6,7 @@ fa-icon: home
 style: center
 ---
 
-## Wooden folding desk/table $100
+## SOLD!!! ~~Wooden folding desk/table $100~~ 
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_163415-01.jpg)
 
@@ -14,7 +14,7 @@ style: center
 
 ### By itself - $80
 
-_coming soon_
+_pic coming asap_
 
 
 ### With 3 chairs - $100
