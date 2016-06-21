@@ -11,11 +11,11 @@ style: center
 Note: Red milk frother not included. *I need that for hot chocolate... *
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/coffee.machine.jpg)
 
-## Computer screen $40
+## SOLD ~~Computer screen $40~~
 
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161110-01.jpg)
 
-## Fan $30
+## SOLD ~~Fan $30~~
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161237-01.jpg)
 
 ## Small multi-use blender $40
