@@ -11,10 +11,9 @@ style: center
 Note: Red milk frother not included. *I need that for hot chocolate... *
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/coffee.machine.jpg)
 
-
-## Small multi-use blender $40
+## SOLD ~~Small multi-use blender $40~~
 Great for sauces and cocktails :P
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/blender.jpg)
+<!--![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/blender.jpg)-->
 
 ## Toaster $20
 Chrome,  large size (x4 toasts at once), thick-slice friendly, warming rack inbuilt.
