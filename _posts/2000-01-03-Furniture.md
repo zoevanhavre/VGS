@@ -40,8 +40,8 @@ Frosted glass square dining table, metal frame, light but sturdy.
  This is a NZ king, ~so an extra large queen. Mattress itself is very good quality and not too soft, while the base was cheap but works.
 *Pic coming asap*
 
-## Super comfy lounge chair ~ $400 (make an offer...  Its so comfy!)
-Black lazy boy. Full recline. Heaven.
+## Super comfy Lazy-Boy lounge chair >$200 (make an offer)
+Black lazy boy. Full recline. Heaven. 
 
 
 ## SOLD!!! ~~computer chair $20~~
