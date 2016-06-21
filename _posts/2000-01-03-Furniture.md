@@ -25,13 +25,11 @@ Folds away in its own box, looks very nice. Feature: Cannot die.
 ![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20141201_234041-01-01.jpeg)
 
 ## Glass table
-
 ### By itself - $80
 
 Frosted glass square dining table, metal frame, light but sturdy.
 
-_pic coming asap_
-
+![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_9544.jpg)
 
 ### With 3 black chairs - $100
 
@@ -46,12 +44,11 @@ _pic coming asap_
 Black lazy boy. Full recline. Heaven.
 
 
-
 ## SOLD!!! ~~computer chair $20~~
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161352-01.jpg)
+<!--![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_161352-01.jpg)-->
 
 
 ## SOLD!!! ~~Wooden folding desk/table $100~~ 
 
-![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_163415-01.jpg)
+<!--![](https://raw.githubusercontent.com/zoevanhavre/VGS/gh-pages/img/IMG_20160619_163415-01.jpg)-->
 
